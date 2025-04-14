@@ -1,4 +1,4 @@
-# Math Empire
+# <img src="Math Empire.png" height=40px; width= 40px> Math Empire
 
 > ⚠️ **This is a proprietary project. Unauthorized use, modification, or distribution is strictly prohibited.**  
 > © 2025 Nowazish Nur Kayef. All rights reserved.
